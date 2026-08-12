@@ -1,0 +1,6 @@
+{
+  "name": "AstronomyZ",
+  "description": "Explore. Learn. Observe. Your comprehensive astronomy companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
